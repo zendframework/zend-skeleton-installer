@@ -1,14 +1,1 @@
-{
-    "docs": [
-        {
-            "location": "/",
-            "text": "zend-skeleton-installer\n\n\n\n\n\n\nzend-skeleton-installer is a composer plugin for use in the initial install of\nthe ZendSkeletonApplication. It prompts for common requirements, adding packages\nto the composer requirements for each selection, and then uninstalls itself on\ncompletion.\n\n\nThe installer requires \nzend-component-installer\n,\nand we recommend requiring that component in your project skeleton as well.\n\n\n\n\nFile issues at https://github.com/zendframework/zend-skeleton-installer/issues\n\n\nDocumentation is at https://docs.zendframework.com/zend-skeleton-installer/",
-            "title": "zend-skeleton-installer"
-        },
-        {
-            "location": "/#zend-skeleton-installer",
-            "text": "zend-skeleton-installer is a composer plugin for use in the initial install of\nthe ZendSkeletonApplication. It prompts for common requirements, adding packages\nto the composer requirements for each selection, and then uninstalls itself on\ncompletion.  The installer requires  zend-component-installer ,\nand we recommend requiring that component in your project skeleton as well.   File issues at https://github.com/zendframework/zend-skeleton-installer/issues  Documentation is at https://docs.zendframework.com/zend-skeleton-installer/",
-            "title": "zend-skeleton-installer"
-        }
-    ]
-}
+{"config":{"lang":["en"],"prebuild_index":false,"separator":"[\\s\\-]+"},"docs":[{"location":"","text":"zend-skeleton-installer zend-skeleton-installer is a composer plugin for use in the initial install of the ZendSkeletonApplication. It prompts for common requirements, adding packages to the composer requirements for each selection, and then uninstalls itself on completion. The installer requires zend-component-installer , and we recommend requiring that component in your project skeleton as well. File issues at https://github.com/zendframework/zend-skeleton-installer/issues Documentation is at https://docs.zendframework.com/zend-skeleton-installer/","title":"zend-skeleton-installer"},{"location":"#zend-skeleton-installer","text":"zend-skeleton-installer is a composer plugin for use in the initial install of the ZendSkeletonApplication. It prompts for common requirements, adding packages to the composer requirements for each selection, and then uninstalls itself on completion. The installer requires zend-component-installer , and we recommend requiring that component in your project skeleton as well. File issues at https://github.com/zendframework/zend-skeleton-installer/issues Documentation is at https://docs.zendframework.com/zend-skeleton-installer/","title":"zend-skeleton-installer"}]}
