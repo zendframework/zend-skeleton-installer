@@ -1,5 +1,9 @@
 # zend-skeleton-installer
 
+> ## Repository abandoned 2019-12-31
+>
+> This repository has moved to [laminas/laminas-skeleton-installer](https://github.com/laminas/laminas-skeleton-installer/).
+
 [![Build Status](https://secure.travis-ci.org/zendframework/zend-skeleton-installer.svg?branch=master)](https://secure.travis-ci.org/zendframework/zend-skeleton-installer)
 [![Coverage Status](https://coveralls.io/repos/github/zendframework/zend-skeleton-installer/badge.svg?branch=master)](https://coveralls.io/github/zendframework/zend-skeleton-installer?branch=master)
 
